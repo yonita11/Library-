@@ -12,6 +12,7 @@ Ini adalah Repository untuk pengerjaan lanjutan tugas-2 mata kuliah Agile Develo
 - home
 - buku populer
 - deskripsi buku
+- pencarian
 - logout
 
 Program prototype Aplikasi menggunakan bahasa <b>Flutter/Dart</b> berbasis mobile & <b>Figma</b>
